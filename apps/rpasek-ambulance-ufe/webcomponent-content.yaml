@@ -1,0 +1,11 @@
+apiVersion: polyfea.github.io/v1alpha1
+kind: WebComponent
+metadata:
+  name: rpasek-ambulance-ufe-content
+spec:
+  microFrontend: rpasek-ambulance-ufe
+  element: rpasek-ambulance-wl-list
+  displayRules:
+    - allOf:
+      - context-name: main-content
+      - path: "^(\\.?/)?rpasek-ambulance-wl(/.*)?$"
