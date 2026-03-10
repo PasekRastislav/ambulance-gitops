@@ -4,7 +4,10 @@ metadata:
   name: rpasek-ambulance-ufe-content
 spec:
   microFrontend: rpasek-ambulance-ufe
-  element: rpasek-ambulance-wl-list
+  element: rpasek-ambulance-wl-app
+  attributes:
+    - name: base-path
+      value: /rpasek-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
