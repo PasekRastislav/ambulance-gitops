@@ -6,4 +6,4 @@ images:
   newTag: main.20260317.1507 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: rastislavpasek/ambulance-wl-webapi
   newName: rastislavpasek/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20260331.1110 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
