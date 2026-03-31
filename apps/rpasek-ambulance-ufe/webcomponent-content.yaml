@@ -9,7 +9,7 @@ spec:
     - name: base-path
       value: /rpasek-ambulance-wl/
     - name: api-base
-      value: http://localhost:5005/api  #5005 kvoli mac os
+      value: http://localhost:30081/api
     - name: ambulance-id
       value: bobulova
   displayRules:
