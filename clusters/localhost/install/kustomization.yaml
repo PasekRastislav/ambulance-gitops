@@ -10,6 +10,7 @@ labels:
 resources:
 - ../../../apps/rpasek-ambulance-ufe
 - ../../../apps/rpasek-ambulance-webapi
+- ../../../apps/mongo-express
 
 patches:
 - path: patches/ambulance-webapi.service.yaml
