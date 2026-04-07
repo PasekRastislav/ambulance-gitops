@@ -12,7 +12,7 @@ labels:
 
 resources:
 - ../../../apps/rpasek-ambulance-ufe
-
+- ../../../apps/rpasek-ambulance-webapi
 
 components:
 - ../../../components/version-release
