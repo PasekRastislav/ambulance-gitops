@@ -9,6 +9,7 @@ labels:
     app.kubernetes.io/name: rpasek-ambulance-wl
   includeSelectors: true
   includeTemplates: true
+  wac-fiit.github.io/project: rpasek-ambulance-wl
 
 resources:
 - ../../../apps/rpasek-ambulance-ufe

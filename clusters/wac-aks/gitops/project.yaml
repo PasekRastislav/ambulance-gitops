@@ -1,0 +1,12 @@
+apiVersion: wac-fiit.github.io/v1alpha1
+kind: Project
+metadata:
+  name: rpasek-ambulance-wl # napr. <pfx>-ambulance-wl
+spec:
+  title: "Zoznam čakajúcich rpasek" # napr. "Zoznam čakajúcich <pfx>"
+  description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
+  authors: "Rastislav Pasek" # Zadajte mená autorov
+  azureLink: "https://rpasek-ambulance.azurewebsites.net"
+  frontendRepoUrl: "https://github.com/PasekRastislav/ambulance-ufe"
+  backendRepoUrl: "https://github.com/PasekRastislav/ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/PasekRastislav/ambulance-gitops"
