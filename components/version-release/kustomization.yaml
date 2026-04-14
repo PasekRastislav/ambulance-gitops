@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: rastislavpasek/ambulance-ufe
   newName: rastislavpasek/ambulance-ufe
-  newTag: 1.1.1  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.2  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 - name: rastislavpasek/ambulance-wl-webapi
   newName: rastislavpasek/ambulance-wl-webapi
   newTag: 1.1.0
